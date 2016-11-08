@@ -3,7 +3,7 @@ You will write server-side code to store a list of your favorite movies, includi
 
 ## steps
 1. Download python files.
-2. Run `entertainment_center.py` and it will generate `fresh_tomatoes.html`.
-3. Open `fresh_tomatoes.html` with browser to view the result.
+2. Run `entertainment_center.py` and it will generate `fresh_tomatoes.html` then opened by browser.
+
 
 
